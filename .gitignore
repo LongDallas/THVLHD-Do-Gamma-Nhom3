@@ -1,0 +1,16 @@
+# Hệ điều hành / Office
+.DS_Store
+~$*
+.~*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Đầu ra tự sinh khi chạy notebook hướng dẫn
+05_HuongDan/hinh_tu_ve/
+05_HuongDan/mo_phong/

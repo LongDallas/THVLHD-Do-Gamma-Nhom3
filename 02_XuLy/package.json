@@ -1,0 +1,6 @@
+{
+  "name": "do-gamma-nhom3",
+  "private": true,
+  "description": "Tạo báo cáo Word cho bài Phân bố thống kê trong phân rã phóng xạ",
+  "dependencies": { "docx": "^9.9.0" }
+}
